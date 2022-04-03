@@ -1,0 +1,16 @@
+.menubar {
+    background-color: rgb(8, 119, 82);
+    padding: 20px 50px;
+}
+
+.manubar-item {
+
+    padding: 0 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.manubar-item:hover {
+    color: black;
+
+}
