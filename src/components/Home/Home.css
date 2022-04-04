@@ -1,8 +1,8 @@
-/* .container {
-    display: flex;
-    margin: 50px 0;
-} */
+.demo-button:hover {
+    color: rgb(8, 119, 82);
+    background-color: gray;
+}
 
 .banner-image img {
-    width: 400px;
+    border-radius: 25px;
 }

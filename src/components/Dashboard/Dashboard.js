@@ -12,7 +12,7 @@ const Dashboard = () => {
     }, [])
     return (
         <div className='container my-5'>
-            <h1 className='pb-3'>DashBoard</h1>
+            <h1 className='pb-3 fw-bold'>DashBoard</h1>
             <div className='row row-cols-1 row-cols-md-2 g-4'>
                 <div className='col'>
                     <div className='card'>
