@@ -2,7 +2,17 @@
 
 # Website Name : Mac Book Pro
 
-# Live Site Link :[]
+# [Live Website Link](https://mac-book-pro-analysis.netlify.app/)
+# WebSite Link :(https://mac-book-pro-analysis.netlify.app/)
+
+## About My Webite:
+* Adding favicon & website title
+* Using products.json & data.json for collecting data about product.
+* Adding some pages by react router like Home, Review ,Dashboard, About, Blogs.
+* Adding some components for interconnecting & ui design.
+* Adding a custom hook for using in some components.
+* Adding NotFound for unavailabe user searching. If user search unnessary things then they can see NotFound page.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

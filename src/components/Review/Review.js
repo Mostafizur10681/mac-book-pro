@@ -5,6 +5,7 @@ import CustomerReview from '../CustomerReview/CustomerReview';
 const Review = () => {
     const [reviews, setReviews] = useReview();
     return (
+        // Show all review & user info
         <div className='my-5'>
             <h1 className=' fw-bold'>Customer Reviews</h1>
             <hr className='w-50 mx-auto mb-5' />
