@@ -1,11 +1,11 @@
 import React from 'react';
-import './CustomerReview.css'
+import './HomeReview.css'
 
-const CustomerReview = (props) => {
+const HomeReview = (props) => {
     const { img, name, review, ratings } = props.review
     return (
         <div className="col">
-            <div className="card rounded h-100">
+            <div className="card h-100">
                 <img src={img} className="card-img-top" alt="..."></img>
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
@@ -17,4 +17,4 @@ const CustomerReview = (props) => {
     );
 };
 
-export default CustomerReview;
+export default HomeReview;
